@@ -1,4 +1,4 @@
-package com.ncorti.kotlin.template.library.android
+package br.com.gbguerra.kotlin.template.library.android
 
 import android.app.Notification
 import android.app.NotificationChannel

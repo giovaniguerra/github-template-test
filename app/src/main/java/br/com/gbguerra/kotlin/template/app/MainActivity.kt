@@ -1,10 +1,10 @@
-package com.ncorti.kotlin.template.app
+package br.com.gbguerra.kotlin.template.app
 
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
-import com.ncorti.kotlin.template.library.FactorialCalculator
-import com.ncorti.kotlin.template.library.android.NotificationUtil
+import br.com.gbguerra.kotlin.template.library.FactorialCalculator
+import br.com.gbguerra.kotlin.template.library.android.NotificationUtil
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

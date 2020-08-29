@@ -1,4 +1,4 @@
-package com.ncorti.kotlin.template.library
+package br.com.gbguerra.kotlin.template.library
 
 object FactorialCalculator {
 
